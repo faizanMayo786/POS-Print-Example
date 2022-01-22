@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="POSPrintExample.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UrlPost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://127.0.0.1:8080/</Value>
+    </Setting>
+    <Setting Name="PostExtn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">com</Value>
+    </Setting>
+    <Setting Name="ReplaceText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">POSMYApp:</Value>
+    </Setting>
+    <Setting Name="PrinterName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Microsoft Print to PDF</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

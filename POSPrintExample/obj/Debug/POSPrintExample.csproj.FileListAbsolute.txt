@@ -1,0 +1,12 @@
+C:\Users\92347\Desktop\Desktop\OOP\C++\POSPrintExample\POSPrintExample\bin\Debug\POSPrintExample.exe.config
+C:\Users\92347\Desktop\Desktop\OOP\C++\POSPrintExample\POSPrintExample\bin\Debug\POSPrintExample.exe
+C:\Users\92347\Desktop\Desktop\OOP\C++\POSPrintExample\POSPrintExample\bin\Debug\POSPrintExample.pdb
+C:\Users\92347\Desktop\Desktop\OOP\C++\POSPrintExample\POSPrintExample\bin\Debug\PrinterUtility.dll
+C:\Users\92347\Desktop\Desktop\OOP\C++\POSPrintExample\POSPrintExample\obj\Debug\POSPrintExample.csprojAssemblyReference.cache
+C:\Users\92347\Desktop\Desktop\OOP\C++\POSPrintExample\POSPrintExample\obj\Debug\POSPrintExample.Properties.Resources.resources
+C:\Users\92347\Desktop\Desktop\OOP\C++\POSPrintExample\POSPrintExample\obj\Debug\POSPrintExample.csproj.GenerateResource.cache
+C:\Users\92347\Desktop\Desktop\OOP\C++\POSPrintExample\POSPrintExample\obj\Debug\POSPrintExample.csproj.CoreCompileInputs.cache
+C:\Users\92347\Desktop\Desktop\OOP\C++\POSPrintExample\POSPrintExample\obj\Debug\POSPrintExample.csproj.CopyComplete
+C:\Users\92347\Desktop\Desktop\OOP\C++\POSPrintExample\POSPrintExample\obj\Debug\POSPrintExample.exe
+C:\Users\92347\Desktop\Desktop\OOP\C++\POSPrintExample\POSPrintExample\obj\Debug\POSPrintExample.pdb
+C:\Users\92347\Desktop\Desktop\OOP\C++\POSPrintExample\POSPrintExample\obj\Debug\POSPrintExample.Form1.resources
